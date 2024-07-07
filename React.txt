@@ -6,3 +6,5 @@ component can reuse
 jsx -> html + javascript
 reuse component -> not dependent, easy to test with each component, when test all component ok then applicarion is ok
 abstraction -> hidden our implementation, make code simple, easy to read
+
+state -> that can change data in component
