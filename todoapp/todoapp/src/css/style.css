@@ -1,0 +1,11 @@
+.inline-header {
+  color: gray;
+  background-color: yellow;
+  font-size: 20px;
+}
+
+.outline-header {
+  color: green;
+  background-color: grey;
+  font-size: 22px;
+}
