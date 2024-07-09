@@ -15,7 +15,7 @@ export default function Fruit1s() {
     {
       name: "Banana",
       price: 12,
-      soldout: true,
+      soldout: false,
     },
   ];
   return (
